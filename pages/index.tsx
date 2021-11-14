@@ -26,7 +26,7 @@ const Home: NextPage = () => {
           </div>
 
           <div className={styles.card}>
-            <h2>Webで使える3DCADの開発" </h2>
+            <h2>Webで使える3DCADの開発</h2>
             <p>AIによる画像からの3Dモデルの作成、モデルのAR機能など最新の機能も取り入れて開発します。</p>
           </div>
 
