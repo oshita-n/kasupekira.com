@@ -26,8 +26,12 @@ const Home: NextPage = () => {
         </p>
         <br />
         <img src="3dshare.png" width="700px"/> 
+        <br />
+        <h2>
+          ご連絡・ご相談
+        </h2>
+        <p>oshita-n@whispon.com</p>
       </main>
-
       <Footer/>
     </div>
   )
