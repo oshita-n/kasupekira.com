@@ -25,7 +25,7 @@ const Home: NextPage = () => {
           また、ユーザーによる評価機能を取り入れ品質を高める努力もしていきます。
         </p>
         <br />
-        <img src="3dshare.jpg" width="700px"/> 
+        <img src="3dshare.png" width="700px"/> 
       </main>
 
       <Footer/>
